@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me: www.linkedin.com/in/delfinavicente. 
 
-<div align="center">
-  <a href="https://github.com/Delfina8">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Delfina8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delfina8&layout=compact&langs_count=7&theme=dracula"/>
-  
+ ![Delfina GitHub stats](https://github-readme-stats.vercel.app/api?username=Delfina8&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delfina8&layout=compact)](https://github.com/delfina8/github-readme-stats)
+ 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />

@@ -1,5 +1,6 @@
 ### Hi there 👋
 -   I'm Delfina
+-   Junior Software Developer (Back-end)
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me: www.linkedin.com/in/delfinavicente. 
 

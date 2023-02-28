@@ -1,7 +1,7 @@
 ### Hi there 👋
 -   I'm Delfina
 -   Junior Software Developer (Back-end)
-- 🌱 I’m currently studying JAVA
+- 🌱 JAVA
 - 📫 How to reach me: www.linkedin.com/in/delfinavicente. 
 - E-mail: githubdelfina@gmail.com
 

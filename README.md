@@ -5,11 +5,6 @@
 - 📫 How to reach me: www.linkedin.com/in/delfinavicente. 
 - E-mail: githubdelfina@gmail.com
 
- ![Delfina GitHub stats](https://github-readme-stats.vercel.app/api?username=Delfina8&show_icons=true&theme=dracula&count_private=true)
-</div>
- <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delfina8&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
  
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />

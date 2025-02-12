@@ -2,8 +2,7 @@
 -   I'm Delfina
 -   Software Developer (Back-end)
 - 🌱 JAVA
-- 📫 How to reach me: www.linkedin.com/in/delfinavicente. 
-- E-mail: githubdelfina@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/delfinavicente
 
  
 <div style="display: inline_block">
